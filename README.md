@@ -1,6 +1,5 @@
 # Amazon-clone
 
-Check It Out: https://clone-64ed1.web.app/
 
 🛍️ Amazon Clone App with React.js and Firebase Authentication 🚀
 
